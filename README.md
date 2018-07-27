@@ -1,1 +1,1 @@
-# th-class
+# th_class
